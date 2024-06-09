@@ -1,0 +1,13 @@
+**Developed by Muhamad Fajar Suprapto**
+
+
+---Admin Login Details---
+
+Email   : admin@gmail.com
+Password: admin123
+
+
+---Staff Login Details---
+
+Email   : staff@gmail.com
+Password: staff123
